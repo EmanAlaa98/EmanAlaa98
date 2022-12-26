@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmanAlaa98
+- 👋 Hi, I’m Eman Mahmoud
 - 👀 I’m interested in coding with python
 - 🌱 I’m currently learning AI with python course
 - 💞️ I’m looking to collaborate on my projects
